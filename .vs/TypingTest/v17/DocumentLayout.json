@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|c:\\users\\s111020\\source\\repos\\typingtest\\typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|c:\\users\\s111020\\source\\repos\\typingtest\\typingtest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "TypingTest\\HomePage.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAEwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:11:40.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T18:11:40.296Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Form2.cs [Design]",
               "RelativeToolTip": "TypingTest\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:09:21.991Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-14T18:09:21.991Z"
             }
           ]
         }
