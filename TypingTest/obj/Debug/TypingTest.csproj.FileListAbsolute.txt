@@ -1,0 +1,12 @@
+C:\Users\s111020\source\repos\TypingTest\TypingTest\bin\Debug\TypingTest.exe.config
+C:\Users\s111020\source\repos\TypingTest\TypingTest\bin\Debug\TypingTest.exe
+C:\Users\s111020\source\repos\TypingTest\TypingTest\bin\Debug\TypingTest.pdb
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.csproj.AssemblyReference.cache
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.Statistics.resources
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.Test.resources
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.HomePage.resources
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.Properties.Resources.resources
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.csproj.GenerateResource.cache
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.csproj.CoreCompileInputs.cache
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.exe
+C:\Users\s111020\source\repos\TypingTest\TypingTest\obj\Debug\TypingTest.pdb
