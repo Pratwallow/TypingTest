@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace TypingTest
 {
-    public partial class Form2 : Form
+    public partial class Test : Form
     {
-        public Form2()
+        public Test()
         {
             InitializeComponent();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void test1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

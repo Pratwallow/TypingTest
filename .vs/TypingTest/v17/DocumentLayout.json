@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\s111020\\source\\repos\\TypingTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|c:\\users\\s111020\\source\\repos\\typingtest\\typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|c:\\users\\s111020\\source\\repos\\typingtest\\typingtest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\homepage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Statistics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Statistics.cs",
+              "RelativeDocumentMoniker": "TypingTest\\Statistics.cs",
+              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Statistics.cs [Design]",
+              "RelativeToolTip": "TypingTest\\Statistics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:21:02.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Program.cs",
+              "RelativeDocumentMoniker": "TypingTest\\Program.cs",
+              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Program.cs",
+              "RelativeToolTip": "TypingTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:12:29.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.cs",
+              "RelativeDocumentMoniker": "TypingTest\\Test.cs",
+              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.cs",
+              "RelativeToolTip": "TypingTest\\Test.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:12:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.resx",
+              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.resx",
+              "RelativeDocumentMoniker": "TypingTest\\HomePage.resx",
+              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.resx",
+              "RelativeToolTip": "TypingTest\\HomePage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-23T18:29:49.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomePage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs",
               "RelativeDocumentMoniker": "TypingTest\\HomePage.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs [Design]",
               "RelativeToolTip": "TypingTest\\HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:03:38.763Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-14T18:03:38.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs",
               "RelativeDocumentMoniker": "TypingTest\\HomePage.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs",
               "RelativeToolTip": "TypingTest\\HomePage.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAEwB8AAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:11:40.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Form2.cs",
-              "RelativeDocumentMoniker": "TypingTest\\Form2.cs",
-              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Form2.cs [Design]",
-              "RelativeToolTip": "TypingTest\\Form2.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Test.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.cs",
+              "RelativeDocumentMoniker": "TypingTest\\Test.cs",
+              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.cs [Design]",
+              "RelativeToolTip": "TypingTest\\Test.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:09:21.991Z"
+              "WhenOpened": "2025-01-14T18:09:21.991Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
