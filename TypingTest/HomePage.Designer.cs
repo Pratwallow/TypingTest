@@ -46,9 +46,9 @@
             this.createATest.AutoSize = true;
             this.createATest.Location = new System.Drawing.Point(52, 98);
             this.createATest.Name = "createATest";
-            this.createATest.Size = new System.Drawing.Size(72, 13);
+            this.createATest.Size = new System.Drawing.Size(53, 13);
             this.createATest.TabIndex = 0;
-            this.createATest.Text = "Create A Test";
+            this.createATest.Text = "Start Test";
             this.createATest.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
