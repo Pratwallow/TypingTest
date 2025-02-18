@@ -18,19 +18,36 @@ namespace TypingTest
 {
     public partial class Test : Form
     {
-        static string words = "";
-        static int wirds = 100;
-        static int time = 30;
-        String[] wordBank = { "fart", "was", "awful", "awesome", "terrible", "among", "us"};
+
+        public class Typer
+        {
+            public String words = "";
+            public int wordCount;
+            public int time;
+            public String[] wordBank;
+
+            // Constructor
+            public Typer(String words, int wordCount, int time, String[] wordBank)
+            {
+                this.words = words;
+                this.wordCount = wordCount;
+                this.time = time;
+                this.wordBank = wordBank;
+            }
+        }
+        
         Random rnd = new Random();
         public Test()
         {
+
             InitializeComponent();
-            for (int i = 0; i < 5; i++)
+            String[] currentWords = { "fart", "was", "awful", "awesome", "terrible", "among", "us" };
+            Typer thing = new Typer(" ", 35, 35, currentWords);
+            for (int i = 0; i < 50; i++)
             {
-               words = words + wordBank[rnd.Next(0, wordBank.Length)] + " ";
+               thing.words = thing.words + thing.wordBank[rnd.Next(0, thing.wordBank.Length)] + " ";
             }
-            richTextBox1.Text = words;
+            richTextBox1.Text = thing.words;
 
 
         }
@@ -40,32 +57,8 @@ namespace TypingTest
         private void test1_Click(object sender, EventArgs e)
         {
         }
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-           
-        }
 
-        private void checkGme(object sender, KeyEventArgs e)
-        {
-            String[] wordList = words.Split(' ');
-            String[] testList = (textBox1.Text).Split(' ');
-            int errors = 0;
-            if (e.KeyCode == Keys.Up)
-            {
-                for (int i = 0; i < wordList.Length; i++)
-                {
-                    if (wordList[i] != testList[i])
-                    {
-                        errors++;
-                    }
-
-                }
-            }
-            richTextBox1.Text = errors.ToString();
-        }
-        private void label1_Click(object sender, EventArgs e)
-        {
-        }
+       
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -74,6 +67,43 @@ namespace TypingTest
         private void button5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void playGame(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String[] wordList = (richTextBox1.Text).Split(' ');
+            String[] preList = (textBox1.Text).Split(' ');
+            String[] testList = new string[wordList.Length];
+            for (int i = 0; i < wordList.Length; i++)
+            {
+                if (i < preList.Length)
+                {
+                    testList[i] = preList[i];
+                }
+                testList[i] = " ";
+
+            }
+            int errors = 0;
+            //if (e.KeyCode == Keys.Up)
+            //{
+            for (int i = 0; i < wordList.Length; i++)
+            {
+                System.Console.WriteLine(wordList[i]);
+                System.Console.WriteLine(testList[i]);
+
+                if (wordList[i] != testList[i])
+                {
+                    errors++;
+                }
+
+            }
+            //}
+            richTextBox1.Text = errors.ToString();
         }
     }
 }

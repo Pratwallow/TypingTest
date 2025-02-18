@@ -11,6 +11,26 @@
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\edittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\edittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\edittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\edittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\statistics.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\statistics.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\edittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\edittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B53A9F18-C8BB-444A-824D-32496A1685DC}|TypingTest\\TypingTest.csproj|C:\\Users\\s111020\\source\\repos\\TypingTest\\typingtest\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +68,7 @@
               "RelativeDocumentMoniker": "TypingTest\\Test.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.cs",
               "RelativeToolTip": "TypingTest\\Test.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAA5wD8AAAAqAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwE8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T18:12:10.749Z",
               "IsPinned": true,
@@ -79,51 +83,57 @@
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.cs [Design]",
               "RelativeToolTip": "TypingTest\\Test.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:09:21.991Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-18T17:25:14.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Statistics.cs [Design]",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Statistics.cs",
               "RelativeDocumentMoniker": "TypingTest\\Statistics.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Statistics.cs [Design]",
               "RelativeToolTip": "TypingTest\\Statistics.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:21:02.791Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-27T18:21:02.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "EditTest.cs",
+              "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\EditTest.cs",
+              "RelativeDocumentMoniker": "TypingTest\\EditTest.cs",
+              "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\EditTest.cs",
+              "RelativeToolTip": "TypingTest\\EditTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:24:15.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Test.Designer.cs",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.Designer.cs",
               "RelativeDocumentMoniker": "TypingTest\\Test.Designer.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Test.Designer.cs",
               "RelativeToolTip": "TypingTest\\Test.Designer.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAASwEEAAAApAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:22:34.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T18:22:34.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "EditTest.cs [Design]",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\EditTest.cs",
               "RelativeDocumentMoniker": "TypingTest\\EditTest.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\EditTest.cs [Design]",
               "RelativeToolTip": "TypingTest\\EditTest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:11:48.613Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-03T18:11:48.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Program.cs",
               "RelativeDocumentMoniker": "TypingTest\\Program.cs",
@@ -131,36 +141,33 @@
               "RelativeToolTip": "TypingTest\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:12:29.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T18:12:29.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "HomePage.resx",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.resx",
               "RelativeDocumentMoniker": "TypingTest\\HomePage.resx",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.resx",
               "RelativeToolTip": "TypingTest\\HomePage.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-01-23T18:29:49.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T18:29:49.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "HomePage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs",
               "RelativeDocumentMoniker": "TypingTest\\HomePage.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs [Design]",
               "RelativeToolTip": "TypingTest\\HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:03:38.763Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-14T18:03:38.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Statistics.Designer.cs",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Statistics.Designer.cs",
               "RelativeDocumentMoniker": "TypingTest\\Statistics.Designer.cs",
@@ -168,25 +175,23 @@
               "RelativeToolTip": "TypingTest\\Statistics.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:51:19.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T17:51:19.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs",
               "RelativeDocumentMoniker": "TypingTest\\HomePage.cs",
               "ToolTip": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\HomePage.cs",
               "RelativeToolTip": "TypingTest\\HomePage.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAswCAAAAAMAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:11:40.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T18:11:40.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Statistics.cs",
               "DocumentMoniker": "C:\\Users\\s111020\\source\\repos\\TypingTest\\TypingTest\\Statistics.cs",
               "RelativeDocumentMoniker": "TypingTest\\Statistics.cs",
@@ -194,8 +199,7 @@
               "RelativeToolTip": "TypingTest\\Statistics.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:01:55.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T18:01:55.297Z"
             }
           ]
         }
