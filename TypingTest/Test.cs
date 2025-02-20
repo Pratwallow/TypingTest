@@ -43,7 +43,7 @@ namespace TypingTest
             InitializeComponent();
             String[] currentWords = { "fart", "was", "awful", "awesome", "terrible", "among", "us" };
             Typer thing = new Typer(" ", 35, 35, currentWords);
-            for (int i = 0; i < 50; i++)
+            for (int i = 0; i < 5; i++)
             {
                thing.words = thing.words + thing.wordBank[rnd.Next(0, thing.wordBank.Length)] + " ";
             }
@@ -89,8 +89,6 @@ namespace TypingTest
 
             }
             int errors = 0;
-            //if (e.KeyCode == Keys.Up)
-            //{
             for (int i = 0; i < wordList.Length; i++)
             {
                 System.Console.WriteLine(wordList[i]);
@@ -102,7 +100,6 @@ namespace TypingTest
                 }
 
             }
-            //}
             richTextBox1.Text = errors.ToString();
         }
     }
