@@ -12,9 +12,17 @@ namespace TypingTest
 {
     public partial class Statistics : Form
     {
+        public static int accuracy;
+        public static int time;
+        public static int WPM;
+        public static int wordsTyped;
         public Statistics()
         {
             InitializeComponent();
+
+
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -33,6 +41,11 @@ namespace TypingTest
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
         {
 
         }

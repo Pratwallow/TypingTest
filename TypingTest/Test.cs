@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ToolTip;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using System.Drawing.Drawing2D;
 namespace TypingTest
 {
     public partial class Test : Form
@@ -35,17 +36,22 @@ namespace TypingTest
                 this.wordBank = wordBank;
             }
         }
-        
+        static String[] currentWords = { "fart", "was", "awful", "awesome", "terrible", "among", "us", "You", "Know" };
+        Typer thing = new Typer(" ", 35, 35, currentWords);
         Random rnd = new Random();
         public Test()
         {
-
+            
             InitializeComponent();
-            String[] currentWords = { "fart", "was", "awful", "awesome", "terrible", "among", "us" };
-            Typer thing = new Typer(" ", 35, 35, currentWords);
+            thing.words = thing.words.Trim();
+
             for (int i = 0; i < 5; i++)
             {
                thing.words = thing.words + thing.wordBank[rnd.Next(0, thing.wordBank.Length)] + " ";
+                if (i == 4)
+                {
+                    thing.words = thing.words + thing.wordBank[rnd.Next(0, thing.wordBank.Length)];
+                }
             }
             richTextBox1.Text = thing.words;
 
@@ -79,14 +85,19 @@ namespace TypingTest
             String[] wordList = (richTextBox1.Text).Split(' ');
             String[] preList = (textBox1.Text).Split(' ');
             String[] testList = new string[wordList.Length];
+            System.Console.WriteLine(wordList.Length);
+            System.Console.WriteLine(preList.Length);
+            System.Console.WriteLine(testList.Length);  
             for (int i = 0; i < wordList.Length; i++)
             {
                 if (i < preList.Length)
                 {
                     testList[i] = preList[i];
                 }
-                testList[i] = " ";
-
+                else
+                {
+                    testList[i] = "wrong";
+                }
             }
             int errors = 0;
             for (int i = 0; i < wordList.Length; i++)
@@ -94,10 +105,11 @@ namespace TypingTest
                 System.Console.WriteLine(wordList[i]);
                 System.Console.WriteLine(testList[i]);
 
-                if (wordList[i] != testList[i])
+                if (wordList[i]!=(testList[i]))
                 {
                     errors++;
                 }
+             
 
             }
             richTextBox1.Text = errors.ToString();
